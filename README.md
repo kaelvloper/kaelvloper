@@ -41,7 +41,7 @@ Saya senang membangun sistem gameplay yang imersif, arsitektur C# modular, dan p
 * 🎒 **RE-Style Grid Inventory:** Slot `4x2`, *Combine/Reload*, **3D Examine Studio 360°**, serta **Real-Time EKG Heartbeat Monitor**.
 * 🧟 **Combat, AI & Death Sequence:** Pistol *M1911*, *Zombie AI State Machine*, sistem nyawa + *First Aid Spray*, dan sekuens jatuh kematian FPS prosedural.
 
-👉 *Lihat detail lengkapnya di repositori [**Eternal-Fear-Showcase**](https://github.com/USERNAME_ANDA/Eternal-Fear-Showcase).*
+👉 *Lihat detail lengkapnya di repositori [**Eternal-Fear-Showcase**](https://github.com/kaelvloper/Eternal-Fear-Showcase).*
 
 ---
 
