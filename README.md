@@ -48,6 +48,6 @@ Saya senang membangun sistem gameplay yang imersif, arsitektur C# modular, dan p
 ### 📊 Aktivitas & Statistik GitHub
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_ANDA&show_icons=true&theme=radical&bg_color=0D1117&title_color=D62828&icon_color=D62828&border_color=30363D&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_ANDA&layout=compact&theme=radical&bg_color=0D1117&title_color=D62828&border_color=30363D&hide_border=false" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=kaelvloper&show_icons=true&theme=radical&bg_color=0D1117&title_color=D62828&icon_color=D62828&border_color=30363D&hide_border=false&include_all_commits=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaelvloper&layout=compact&theme=radical&bg_color=0D1117&title_color=D62828&border_color=30363D&hide_border=false" />
 </div>
